@@ -16,8 +16,8 @@ To **extract structured and meaningful data** from the **given Excel source file
 
 You are given:
 
-* **1 Excel file (source data)** — may have multiple sheets with different formats
-* **No template file is provided**
+* **1 Excel file (Template data)** — may have multiple sheets with different formats
+* **Source Data** - Containing multiple source data
 * Your job is to extract structured information sheet-by-sheet and represent it in **modular JSON format**
 
 ---
